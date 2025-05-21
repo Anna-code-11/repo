@@ -1,90 +1,92 @@
 * {
-   margin: 0;
-   padding: 0;
-   box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 body {
-   background-color: rgb(231, 209, 234);
-   font-family: "Open Sans", sans-serif;
+    background-color: rgb(231, 209, 234);
+    font-family: "Open Sans", sans-serif;
+ 
 }
 
 header {
-   display: flex;
-   justify-content: space-between;
-   align-items: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .menu li a {
-   color: rgb(22, 16, 176);
-   font-size: 18px;
+    color: rgb(22, 16, 176);
+    font-size: 18px;
 }
 
 h1 {
-   color: rgb(91, 203, 244);
-   text-shadow: 2px 3px #ba4e7b;
-   text-align: center;
-   font-family: Arial, Helvetica, sans-serif;
-   font-size: 58px;
+    color: rgb(91, 203, 244);
+    text-shadow: 2px 3px #ba4e7b;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 58px;
 }
 
 .some_text {
-   width: 200px;
-   background-color: rgb(178, 247, 250);
+    width: 200px;
+    background-color: rgb(178, 247, 250);
 }
 
 span {
-   color: rgb(25, 89, 89);
-   /* padding: 5px; */
-   text-align: center;
+    color: rgb(25, 89, 89);
+    /* padding: 5px; */
+    text-align: center;
 }
 
 .color_green {
-   color: green;
-   font-size: 30px;
+    color: green;
+    font-size: 30px;
 }
 
 .Line {
-   height: 3px;
-   background-color: rgb(42, 165, 71);
+    height: 3px;
+    background-color: rgb(42, 165, 71);
 }
 
 h2 {
-   font-size: 30px;
-   color: #ba4e7b;
+    font-size: 30px;
+    color: #ba4e7b;
 }
 
 .test {
-  color: rgb(241, 78, 19);
-  font-size: 26px;
+   color: rgb(241, 78, 19);
+   font-size: 26px;
 }
 
 #testId {
-  color: rgb(53, 94, 184);
+   color: rgb(53, 94, 184);
 }
 
 textarea {
-   resize: none;
+    resize: none;
 }
 
 .h_section {
-   background-color: #a2eef3;
+    background-color: #a2eef3;
 }
 
 .p_section {
-   background-color: rgb(253, 249, 117);
+    background-color: rgb(253, 249, 117);
 }
 
 table {
-   border-collapse: collapse;
-   text-align: center;
+    border-collapse: collapse;
+    text-align: center;
 }
 
 .collapse_bord {
-   border-collapse: collapse;
+    border-collapse: collapse;
 }
 
 .separate_bord {
-   border-collapse: separate;
+    border-collapse: separate;
 }
+
 
